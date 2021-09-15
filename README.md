@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![DreamHeaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamHeavenyang&show_icons=true&theme=onedark)
 <!--
 **DreamHeavenyang/DreamHeavenyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
